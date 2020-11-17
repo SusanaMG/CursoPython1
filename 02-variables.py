@@ -19,6 +19,10 @@ comida = 'arroz'
 print('Libro: ' + libro)
 print('Comida: ' + comida)
 
+# Cuando se mezcla String con una variable se pone delante la f
+print(f'Libro: {libro}')
+print(f'Comida: {comida}')
+
 # TIPOS DE DATOS
 
 nombre1 = 'Juan' # String o cadenas de texto
